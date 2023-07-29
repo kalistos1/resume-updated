@@ -7936,7 +7936,7 @@ main {
   main .contact-section {
     margin-bottom: 31px; }
     main .contact-section p {
-      font-size: 12px;
+      font-size: 14px;
       font-weight: 300; }
   main .contact-cards-wrapper {
     display: flex;
@@ -7958,7 +7958,7 @@ main {
       main .contact-card {
         width: 100%; } }
     main .contact-card-title {
-      font-size: 14px;
+      font-size: 16px;
       font-weight: 700;
       line-height: 1;
       margin-bottom: 0; }
@@ -7991,12 +7991,12 @@ main {
       background-color: #f3f3f3;
       padding: 12px 14px;
       color: #000000;
-      font-size: 8px;
+      font-size: 12px;
       line-height: 1.5;
       min-height: 36px; }
     main .contact-form .form-submit-btn {
       border-radius: 0;
-      font-size: 12px;
+      font-size: 14px;
       font-weight: 700;
       padding: 10px 29px; }
   main .location-section {
